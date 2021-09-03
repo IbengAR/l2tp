@@ -1,2 +1,1 @@
-# l2tp
-vpn ssh
+# premdeb9
